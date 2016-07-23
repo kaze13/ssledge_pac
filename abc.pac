@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY server01.pac.itzmx.com:25;";
+var proxy = "PROXY a510-srv2-kr-kt.gfw.io:6565;";
 
 var domains = {
   "download.kolor.com": 1,
